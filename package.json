@@ -2,20 +2,10 @@
   "name": "solving-code-problems",
   "version": "1.0.0",
   "description": "Solving code problems in multiple programming languages",
-  "homepage": "https://github.com/codigoisaac/solving-code-problems#readme",
-  "bugs": {
-    "url": "https://github.com/codigoisaac/solving-code-problems/issues"
-  },
+  "author": "Isaac Muniz",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codigoisaac/solving-code-problems.git"
-  },
-  "license": "ISC",
-  "author": "Isaac Muniz",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
