@@ -10,6 +10,7 @@ For each problem, I have one solution in each of the following programming langu
 - C# (coming soon)
 - Java (coming soon)
 - Go (coming soon)
+- Dart (coming soon)
 
 ## Why?
 
